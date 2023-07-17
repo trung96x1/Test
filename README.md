@@ -1,6 +1,8 @@
-```javascript I'm A tab
-console.log('Code Tab A');
-```
-```javascript I'm tab B
-console.log('Code Tab B');
+```c++
+#include<iostream>
+using namespace std;
+int main(){
+    printf("Hello World\n");
+    return 0;
+}
 ```
